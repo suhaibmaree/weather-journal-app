@@ -22,6 +22,3 @@ To get the project up and running follow the steps below:
 * Acquired API credentials from OpenWeatherMap website.
 * Created async functions to fetch weather data and store it on my local server. 
 * Set up a function that updated UI dynamically.
-
-### Final Output
-![Output](https://github.com/harshitagupta30/weather-journal-app/blob/master/img/final_ouput.png)
