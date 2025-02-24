@@ -1,6 +1,6 @@
 /* Global Variables - Keep your original */
 const baseUrl = 'https://api.openweathermap.org/data/2.5/weather';
-const apiKey = 'b6f9b3d62cfdac2ed6e65229dbff0530';
+const apiKey = 'b6f9b3d62cfdac2ed6e65229dbff0530&units=metric';
 let d = new Date();
 let newDate = d.getMonth() + '.' + d.getDate() + '.' + d.getFullYear();
 const userInfo = document.getElementById('userInfo');
